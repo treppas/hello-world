@@ -1,2 +1,2 @@
 # hello-world
-Beginning code
+Beginning git lessons
